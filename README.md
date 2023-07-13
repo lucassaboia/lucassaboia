@@ -1,6 +1,6 @@
 # Olá! 😉
 
-Olá! Eu sou **Lucas Sabóia**, um desenvolvedor de software .NET 
+Olá! Eu sou **Lucas Sabóia**, um desenvolvedor de software .NET<br> 
 Tenho 19 anos e estou comprometido em aprimorar minhas habilidades na área de desenvolvimento web.
 
 ## Sobre mim
