@@ -2,7 +2,7 @@
 - **🔭** Atualmente estudando **ASP.NET**
 - **💻** Interesse em desenvolvimento **.NET**
 - **🎓** Estudante de Sistemas da Informação na **Universidade Veiga de Almeida (UVA)**
-- **💡** Interesse em Design de **UI & UX.**
+- **🎨** Interesse em Design de **UI & UX.**
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lucassaboia&show_icons=true&theme=highcontrast" alt="Saboia's GitHub stats" height="165">
