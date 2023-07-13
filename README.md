@@ -1,6 +1,6 @@
 ## Salve! 🤙
 - **🔭** Atualmente estudando **ASP.NET**
-- **💻** Interesse em desenvolvimento **.NET**
+- **💻** Desenvolvimento **.NET**
 - **🎓** Estudante de Sistemas da Informação na **Universidade Veiga de Almeida (UVA)**
 - **🎨** Interesse em Design de **UI & UX.**
 
