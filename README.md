@@ -5,7 +5,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lucassaboia&show_icons=true&theme=tokyonight" alt="Saboia's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="155">
 </div>
 <br>
 
