@@ -1,7 +1,7 @@
 ## Salve! 👍
 - **💻** Desenvolvedor **.NET**
 - **🎓** Estudante de Sistemas da Informação na **Universidade Veiga de Almeida (UVA)**
-- **📚** Atualmente estudando **UI & UX. e ASP.NET Core**
+- **📚** Atualmente estudando **UI & UX e ASP.NET Core**
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lucassaboia&show_icons=true&theme=tokyonight" alt="Saboia's GitHub stats" height="165">
