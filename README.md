@@ -1,5 +1,5 @@
 ## Salve! 👍
-- **💻** Desenvolvedor **.NET**
+- **💻** Desenvolvedor **Backend**
 - **🎓** Estudante de Sistemas da Informação na **Universidade Veiga de Almeida (UVA)**
 - **📚** Atualmente estudando **React e ASP.NET**
 
