@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Figma, Justinmind, Photoshop, Visual Studio, Postman</strong>
+  💼 Ferramentas: <strong>Figma, Justinmind, Photoshop, Visual Studio, Postman, Git</strong>
 </p>
 
 <p align="left">
