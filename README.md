@@ -1,8 +1,8 @@
-## Hello, World! 👍
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+## Hello, World! 👋
+<img src="https://i.imgur.com/Y3zwvBP.png" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left"> 
-  Técnico de Informatica & Programação focado em <strong>C# e JavaScript.</strong> com experiências práticas em criação de aplicações desktop com <strong>WinForms e WPF</strong> e atualmente desenvolvendo habilidades em <strong>ASP.NET e React</strong>
+  Formado em Técnico de TI & Programação, desenvolvi habilidades em linguagens como <strong>C# e JavaScript.</strong> No momento, estou focado em aprimorar minhas capacidades em <strong>ASP.NET com React</strong>. Tenho experiência prática no uso do .NET 6 para desenvolvimento de aplicações desktop usando <strong>WinForms e WPF.</strong>
 </p>
 
 <p align="left">
@@ -19,9 +19,9 @@
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucas.saboia54@gmail.com" /></a>
 <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucassaboiagoes" /></a>
 <a href="#" alt="C#">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&link=LINK-DO-SEU-C%23"/></a>
 <a href="#" alt="JavaScript">
@@ -38,16 +38,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="165">
 </div>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=6C63FF)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=6C63FF)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=6C63FF)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=6C63FF)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white&color=6C63FF)
-![REACT](https://img.shields.io/badge/React.JS-5C2D91?style=for-the-badge&logo=react&logoColor=white&color=6C63FF)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&color=6C63FF)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=6C63FF)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=6C63FF)
-![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&color=6C63FF)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&color=6C63FF)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=6C63FF)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=6C63FF)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=6C63FF)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white&color=6C63FF)
+![REACT](https://img.shields.io/badge/React.JS-5C2D91?style=flat-square&logo=react&logoColor=white&color=6C63FF)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white&color=6C63FF)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&color=6C63FF)
+![Justinmind](https://img.shields.io/badge/Figma-FF7A6B?style=flat-square&logo=Figma&logoColor=white&color=6C63FF)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&color=6C63FF)
+
 
 
 
