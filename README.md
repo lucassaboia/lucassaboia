@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🎓 Estudante de Sistemas da Informação na <strong>Universidade Veiga de Almeida (UVA)</strong>
+  🎓 Estudante de Sistemas da Informação na <strong>Universidade Veiga de Almeida</strong>
 </p>
 
 <p align="left">
