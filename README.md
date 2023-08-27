@@ -20,8 +20,6 @@
 [![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&color=gray)](SEU_LINK)
 
 </div>
-<details closed>
-<summary>Saiba mais sobre mim 🤠</summary>
 
 ---
 
