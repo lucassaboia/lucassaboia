@@ -29,11 +29,14 @@
 <div align="right" style="margin:auto">
      <a href="https://github.com/vcwild">
         <img height="170em"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=gray&custom_title=Linguagens%20Utilizadas"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=FFFFFF&custom_title=Linguagens%20Utilizadas"
              alt="Most used languages"
              align="right">
     </a>
 </div>
+
+
+
 
 
 Hello, World!! 👋
