@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Y3zwvBP.png" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left"> 
-  Formado em Técnico de TI & Programação, desenvolvi habilidades em linguagens como <strong>C# e JavaScript.</strong> No momento, estou focado em aprimorar minhas capacidades em <strong>ASP.NET com React</strong>. Tenho experiência prática no uso do .NET 6 para desenvolvimento de aplicações desktop usando <strong>WinForms e WPF.</strong>
+  Formado em Técnico de TI & Programação, desenvolvi habilidades em linguagens como <strong>C# e JavaScript.</strong> No momento, estou focado em aprimorar minhas capacidades em <strong>ASP.NET com Angular</strong>. Tenho experiência prática no uso do .NET 6 para desenvolvimento de aplicações desktop usando <strong>WinForms e WPF.</strong>
 </p>
 
 <p align="left">
@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-A49414?style=flat-square&logo=javascript&logoColor=white&link=LINK-DO-SEU-JAVASCRIPT"/></a>
 <a href="#" alt="ASP.NET">
   <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white&link=LINK-DO-SEU-ASP.NET"/></a>
-<a href="#" alt="React">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&link=LINK-DO-SEU-REACT"/></a>
+<a href="#" alt="Angular">
+  <img src="https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular&logoColor=white&link=LINK-DO-SEU-ANGULAR"/></a>
 
 </p>
 
@@ -43,7 +43,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=6C63FF)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=6C63FF)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white&color=6C63FF)
-![REACT](https://img.shields.io/badge/React.JS-5C2D91?style=flat-square&logo=react&logoColor=white&color=6C63FF)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&color=6C63FF)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white&color=6C63FF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&color=6C63FF)
 ![Justinmind](https://img.shields.io/badge/Figma-FF7A6B?style=flat-square&logo=Figma&logoColor=white&color=6C63FF)
