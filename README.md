@@ -1,54 +1,48 @@
-## Hello, World! 👋
-<img src="https://i.imgur.com/Y3zwvBP.png" min-width="350px" max-width="350px" width="350px" align="right">
+<h1 align="center"> Lucas Sabóia </h1>
+    
+<div align="center">
+<b>Desenvolvedor de Software | Sistemas de Informação | Técnico em TI & Programação | .NET </b>
+<br>
+<br>
 
-<p align="left"> 
-  Formado em Técnico de TI & Programação, desenvolvi habilidades em linguagens como <strong>C# e JavaScript.</strong> No momento, estou focado em aprimorar minhas capacidades em <strong>ASP.NET com Angular</strong>. Tenho experiência prática no uso do .NET 6 para desenvolvimento de aplicações desktop usando <strong>WinForms e WPF.</strong>
-</p>
-
-<p align="left">
-  💻 Desenvolvedor de <strong>Software</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Figma, Justinmind, Photoshop, Visual Studio, Postman, Git</strong>
-</p>
-
-<p align="left">
-  🎓 Estudante de Sistemas da Informação na <strong>Universidade Veiga de Almeida</strong>
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucas.saboia54@gmail.com" /></a>
-<a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassaboiagoes/" /></a>
-<a href="#" alt="C#">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&link=LINK-DO-SEU-C%23"/></a>
-<a href="#" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-JavaScript-A49414?style=flat-square&logo=javascript&logoColor=white&link=LINK-DO-SEU-JAVASCRIPT"/></a>
-<a href="#" alt="ASP.NET">
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white&link=LINK-DO-SEU-ASP.NET"/></a>
-<a href="#" alt="Angular">
-  <img src="https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular&logoColor=white&link=LINK-DO-SEU-ANGULAR"/></a>
-
-</p>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassaboia&show_icons=true&theme=tokyonight" alt="Saboia's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="165">
+<blockquote>
+    <p><i>
+        Uma pessoa animada que encontra alegria ao debater sobre futebol, esports e literatura, enquanto apoia com paixão o clube que é a caneta que escreve a história ◤✠◢ 
+    </i></p>
+</blockquote>
 </div>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&color=6C63FF)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=6C63FF)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=6C63FF)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=6C63FF)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white&color=6C63FF)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&color=6C63FF)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white&color=6C63FF)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&color=6C63FF)
-![Justinmind](https://img.shields.io/badge/Figma-FF7A6B?style=flat-square&logo=Figma&logoColor=white&color=6C63FF)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&color=6C63FF)
+<div align="center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=gray)](SEU_LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white)](SEU_EMAIL)
+[![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-6A5ACD?style=for-the-badge&logo=c-sharp&color=gray)](SEU_LINK)
+[![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&color=gray)](SEU_LINK)
+
+</div>
+<details closed>
+<summary>Saiba mais sobre mim ☝️</summary>
+
+---
 
 
+<div align="right" style="margin:auto">
+     <a href="https://github.com/vcwild">
+        <img height="170em"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=gray&custom_title=Linguagens%20Utilizadas"
+             alt="Most used languages"
+             align="right">
+    </a>
+</div>
 
+
+Hello, World!! 👋
+
+Ao longo dos meus projetos e formações acadêmicas, adquiri habilidades em linguagens de programação, como **C#** e **JavaScript**. No momento, estou concentrado em aprimorar minhas habilidades em **ASP.NET** com **Angular** e **arquitetura de microsserviços.** Tenho experiência prática no uso do **.NET 6** realizando desenvolvimento de aplicações desktop utilizando **WinForms** e **WPF**. 
+Sou formado em Técnico de Informática e Programação, e atualmente estou me graduando em Sistemas de Informação.
+
+</div>
+</details>
+
+---
 
