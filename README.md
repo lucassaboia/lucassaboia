@@ -25,13 +25,14 @@
 
 
 <div align="right" style="margin:auto">
-     <a href="https://github.com/vcwild">
+    <a href="https://github.com/lucassaboia">
         <img height="170em"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=FFFFFF&custom_title=Linguagens%20Utilizadas"
-             alt="Most used languages"
-             align="right">
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&custom_title=Linguagens%20Utilizadas"
+             alt="Linguagens utilizadas"
+             align="right"> 
     </a>
 </div>
+
 
 
 
