@@ -7,7 +7,7 @@
 
 <blockquote>
     <p><i>
-        Uma pessoa animada que encontra alegria ao debater sobre futebol, esports e literatura, enquanto apoia com paixão o clube que é a caneta que escreve a história ◤✠◢ 
+        Uma pessoa animada que encontra alegria ao debater sobre futebol, esports e literatura.
     </i></p>
 </blockquote>
 </div>
