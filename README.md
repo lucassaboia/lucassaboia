@@ -16,7 +16,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=gray)](https://www.linkedin.com/in/lucassaboiagoes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.saboia54@gmail.com)
-[![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-6A5ACD?style=for-the-badge&logo=c-sharp&color=gray)](SEU_LINK)
+[![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-6A5ACD?style=for-the-badge&logo=c-sharp&color=gray)](https://github.com/dotnet/aspnetcore)
 [![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&color=gray)](SEU_LINK)
 
 </div>
@@ -27,16 +27,11 @@
 <div align="right" style="margin:auto">
     <a href="https://github.com/lucassaboia">
         <img height="170em"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&text_color=D9D9D9&title_color=D9D9D9&custom_title=Linguagens%20Utilizadas"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaboia&hide=html,jupyter%20notebook&langs_count=8&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&text_color=D9D9D9&title_color=D9D9D9&custom_title=Linguagens%20Utilizadas"
              alt="Linguagens utilizadas"
              align="right"> 
     </a>
 </div>
-
-
-
-
-
 
 Hello, World!! 👋
 
