@@ -1,5 +1,7 @@
-<h1 align="center"> Lucas Sabóia </h1>
-    
+<h1  align="center" style="font-size: 2em; color: white; text-decoration: none">
+    Lucas Saboia
+</h1>
+
 <div align="center">
 <b>Desenvolvedor de Software | Sistemas de Informação | Técnico em TI & Programação | .NET </b>
 <br>
