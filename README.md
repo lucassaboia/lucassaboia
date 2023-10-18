@@ -37,7 +37,7 @@
 
 Hello, World!! 👋
 
-Ao longo dos meus projetos e formações acadêmicas, adquiri habilidades em linguagens de programação, como **C#** e **JavaScript**. No momento, estou concentrado em aprimorar minhas habilidades em **ASP.NET** com **Angular** e **arquitetura de microsserviços.** Tenho experiência prática no uso do **.NET 6** realizando desenvolvimento de aplicações desktop utilizando **WinForms** e **WPF**. 
+Ao longo dos meus projetos e formações acadêmicas, adquiri habilidades em linguagens de programação, como **C#** e **JavaScript**. No momento, estou concentrado em aprimorar minhas habilidades em **ASP.NET** com **Angular** e **arquitetura de microsserviços.** Tenho experiência prática no uso do **.NET Core** realizando desenvolvimento de aplicações desktop utilizando **WinForms** e **WPF**. 
 Sou formado em Técnico de Informática e Programação, e atualmente estou me graduando em Sistemas de Informação.
 
 </div>
