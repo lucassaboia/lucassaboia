@@ -9,7 +9,7 @@
 
 <blockquote>
     <p><i>
-        Uma pessoa animada que encontra alegria ao debater sobre futebol, esports e literatura.
+       Me chame pra debater sobre futebol, esports ou filosofia e me aguente falar por três horas.
     </i></p>
 </blockquote>
 </div>
