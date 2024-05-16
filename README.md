@@ -16,10 +16,10 @@
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=gray)](https://www.linkedin.com/in/lucassaboia/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.saboia54@gmail.com)
-[![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-6A5ACD?style=for-the-badge&logo=c-sharp&color=gray)](https://github.com/dotnet/aspnetcore)
-[![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&color=gray)](SEU_LINK)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=blue)](https://www.linkedin.com/in/lucassaboia/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.saboia54@gmail.com)
+[![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-white?style=for-the-badge&logo=c-sharp&color=blue)](https://github.com/dotnet/aspnetcore)
+[![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&color=blue)](SEU_LINK)
 
 </div>
 
