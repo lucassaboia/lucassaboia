@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<b>Desenvolvedor de Software Fullstack | Sistemas de Informação | Angular | .NET </b>
+<b>Desenvolvedor de Software Fullstack | Angular | .NET </b>
 <br>
 <br>
 
